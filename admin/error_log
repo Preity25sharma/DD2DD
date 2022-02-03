@@ -1,0 +1,749 @@
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[01-Feb-2022 11:06:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[01-Feb-2022 16:46:48 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:46:48 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:46:48 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:51 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:51 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:51 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:57 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:57 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:47:57 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:27 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:27 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:27 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:35 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:35 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:50:35 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:13 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:13 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:13 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:19 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:19 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:51:19 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:53:54 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:53:54 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:53:54 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:55:38 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 198
+[01-Feb-2022 16:56:35 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:35 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:35 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:42 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:42 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:42 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:45 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:56:58 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:57:30 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:57:30 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:57:30 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:47 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:47 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:47 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:58:55 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:55 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:58:55 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:03 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 16:59:22 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:59:22 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:59:22 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 16:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 207
+[01-Feb-2022 17:01:46 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:01:46 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:01:46 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:25 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:02:36 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:02:36 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:02:36 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:03:13 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:03:13 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:03:13 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:03:15 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:04:30 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 195
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:05:29 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:06:41 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:04 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 204
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 206
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:07:23 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:09:17 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:10:06 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:50 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:11:50 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:11:50 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:00 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:00 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:00 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:07 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:07 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:07 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:10 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:34 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:39 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:40 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[01-Feb-2022 17:12:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[01-Feb-2022 17:12:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:48 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:50 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:12:54 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:00 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:08 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:11 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:13:11 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:13:11 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:13:14 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:35 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:42 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:14:43 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:21 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:33 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:46 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:15:55 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[01-Feb-2022 11:46:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:16:24 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 17:18:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[01-Feb-2022 22:03:14 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 22:03:14 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[01-Feb-2022 22:03:14 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:22:31 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:22:31 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:22:31 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:32:04 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:32:04 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:32:04 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:52:34 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:52:34 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:52:34 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 12:52:36 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:19 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[02-Feb-2022 07:37:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[02-Feb-2022 13:45:21 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 13:45:21 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 13:45:21 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:47:23 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:48:49 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 13:56:22 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 14:01:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 54
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 55
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 56
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 57
+[02-Feb-2022 10:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/h_str_view.php on line 58
+[02-Feb-2022 18:18:57 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:18:57 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:18:57 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:19:10 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:19:10 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:19:10 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:19:35 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:36 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[02-Feb-2022 18:20:37 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:20:37 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 18:20:37 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 19:01:59 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 19:01:59 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 19:01:59 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[02-Feb-2022 19:02:11 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:20 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 00:59:20 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 00:59:20 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:28 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:32 Asia/Kolkata] PHP Notice:  Undefined index:  in /home/duly7314vwpo/public_html/DD2DD/admin/rr_list.php on line 41
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Undefined variable: row5 in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 00:59:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/duly7314vwpo/public_html/DD2DD/admin/pod_report.php on line 59
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:01 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:02 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:09 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:17 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:18 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:18 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:18 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:18 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:25 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:25 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:26 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:29 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:31 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:31 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 01:01:34 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:37 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 173
+[03-Feb-2022 01:01:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/duly7314vwpo/public_html/DD2DD/admin/read.php on line 175
+[03-Feb-2022 01:01:52 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
+[03-Feb-2022 10:32:20 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 10:32:20 Asia/Kolkata] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 10:32:20 Asia/Kolkata] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/duly7314vwpo/public_html/DD2DD/admin/adminPage.php on line 125
+[03-Feb-2022 10:33:07 Asia/Kolkata] PHP Notice:  Undefined index: LastName in /home/duly7314vwpo/public_html/DD2DD/admin/index.php on line 194
